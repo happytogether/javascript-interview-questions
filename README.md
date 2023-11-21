@@ -10142,7 +10142,7 @@ Whereas the second console.log logs 10 by capturing the count variable from oute
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 58. What is the output of below code ?
+#### ✅ 58. What is the output of below code ?
 
 ```javascript
 let arr = [1, 2, 3];
@@ -10923,7 +10923,7 @@ You can use `.catch()` function in promises to avoid these issues with asynchron
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 79. What is the output of below code?
+#### ✅ 79. What is the output of below code?
 
 ```javascript
 let a = 10;
@@ -10953,7 +10953,7 @@ The variable "a" declared inside "if" has block scope and does not affect the va
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 80. What is the output of below code?
+#### ✅ 80. What is the output of below code?
 
 ```javascript
 let arr = [1, 2, 3, 4, 5, -6, 7];
@@ -10979,7 +10979,7 @@ The length of the array 'arr' has been set to 0, so the array becomes empty.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 81. How do you verify two strings are anagrams?
+#### ✅ 81. How do you verify two strings are anagrams?
 An anagram is a word or phrase formed by rearranging all the letters of a different word or phrase exactly once. For example, the anagrams of "eat" word are "tea" and "ate".
 
 You can split each word into characters, followed by sort action and later join them back. After that you can compare those two words to verify whether those two words are anagrams or not.
