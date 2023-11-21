@@ -10338,7 +10338,7 @@ function generateRandomHex() {
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 63. What is the output of below code?
+#### ✅ 63. What is the output of below code?
 
 ```javascript
 var of = ["of"];
@@ -10376,7 +10376,7 @@ for(var in in in) {
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 64. What is the output of below code?
+#### ✅ 64. What is the output of below code?
 
 ```javascript
 const numbers = [11, 25, 31, 23, 33, 18, 200];
@@ -10412,7 +10412,7 @@ console.log(numbers);
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 65. What is the output order of below code?
+#### ✅ 65. What is the output order of below code?
 
 ```javascript
 setTimeout(() => {
@@ -10440,7 +10440,7 @@ When the JavaScript engine parses the above code, the first two statements are a
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 66. What is the output of below code?
+#### ✅ 66. What is the output of below code?
 
 ```javascript
 console.log(name);
@@ -10480,7 +10480,7 @@ var message = function () {
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 67. What is the output of below code?
+#### ✅ 67. What is the output of below code?
 
 ```javascript
 message();
@@ -10512,7 +10512,7 @@ As part of hoisting, initially JavaScript Engine or compiler will store first fu
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 68. What is the output of below code?
+#### ✅ 68. What is the output of below code?
 
 ```javascript
 var currentCity = "NewYork";
@@ -10545,7 +10545,7 @@ Due to hositing feature, the variables declared with `var` will have `undefined`
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 69. What is the output of below code in an order?
+#### ✅ 69. What is the output of below code in an order?
 
 ```javascript
 function second() {
@@ -10730,7 +10730,7 @@ In JavaScript, primitives are immutable i.e. there is no way to change a primiti
 
 **[⬆ Back to Top](#table-of-contents)**
 
-#### 73. What is the output of below code?
+#### ✅ 73. What is the output of below code?
 
 ```javascript
 let user1 = {
@@ -10992,11 +10992,3 @@ console.log(verifyAnagrams("eat", "ate"));
 ```
 
 **[⬆ Back to Top](#table-of-contents)**
-
-## Disclaimer
-
-The questions provided in this repository are the summary of frequently asked questions across numerous companies. We cannot guarantee that these questions will actually be asked during your interview process, nor should you focus on memorizing all of them. The primary purpose is for you to get a sense of what some companies might ask — do not get discouraged if you don't know the answer to all of them ⁠— that is ok!
-
-Good luck with your interview 😊
-
----
