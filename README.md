@@ -8062,14 +8062,15 @@
 
      JavaScript language has both primitives and non-primitives but there are few differences between them as below,
 
-     | Primitives                 | Non-primitives       |
-     | -------------------------- | -------------------- |
-     | These types are predefined | Created by developer |
-     | These are immutable        | Mutable              |
-     | Compare by value           | Compare by reference |
-     | Stored in Stack            | Stored in heap       |
-     | Contain certain value      | Can contain NULL too |
+     | Primitives                           | Non-primitives       |
+     | --------------------------           | -------------------- |
+     | These types are predefined           | Created by developer |
+     | These are immutable(can be replaced) | Mutable              |
+     | Compare by value                     | Compare by reference |
+     | Stored in Stack                      | Stored in heap       |
+     | Contain certain value                | Can contain NULL too |
 
+      null is a type of primitive in javascript.
      **[⬆ Back to Top](#table-of-contents)**
 
 441. ### How do you create your own bind method using either call or apply method?
