@@ -8027,7 +8027,7 @@
 
      **[⬆ Back to Top](#table-of-contents)**
 
-439. ### What is pass by value and pass by reference?
+439. ✅ ### What is pass by value and pass by reference?
 
      Pass-by-value creates a new space in memory and makes a copy of a value. Primitives such as string, number, boolean etc will actually create a new copy. Hence, updating one value doesn't impact the other value. i.e, The values are independent of each other.
 
