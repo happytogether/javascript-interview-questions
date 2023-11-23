@@ -39,7 +39,7 @@
 | 14  | ✅ [What is a unary function](#what-is-a-unary-function)                                                                                                      |
 | 15  | [What is the currying function](#what-is-the-currying-function)                                                                                               |
 | 16  | ✅ [What is a pure function](#what-is-a-pure-function)                                                                                                        |
-| 17  | [What is the purpose of the let keyword](#what-is-the-purpose-of-the-let-keyword)                                                                             |
+| 17  | ✅ [What is the purpose of the let keyword](#what-is-the-purpose-of-the-let-keyword) {} define the scope inside curly braces                                  |
 | 18  | ✅ [What is the difference between let and var](#what-is-the-difference-between-let-and-var)                                                                  |
 | 19  | [What is the reason to choose the name let as a keyword](#what-is-the-reason-to-choose-the-name-let-as-a-keyword)                                             |
 | 20  | ✅ [How do you redeclare variables in switch block without an error](#how-do-you-redeclare-variables-in-switch-block-without-an-error)                  |
