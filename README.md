@@ -327,8 +327,8 @@
 | 302 | [Why do you need to avoid with statement](#why-do-you-need-to-avoid-with-statement)                                                                           |
 | 303 | [What is the output of below for loops](#what-is-the-output-of-below-for-loops)                                                                               |
 | 304 | [List down some of the features of ES6](#list-down-some-of-the-features-of-es6)                                                                               |
-| 305 | [What is ES6](#what-is-es6)                                                                                                                                   |
-| 306 | [Can I redeclare let and const variables](#can-I-redeclare-let-and-const-variables)                                                                           |
+| 305 | ✅︎ [What is ES6](#what-is-es6)                                                                                                                                   |
+| 306 | ✅︎ [Can I redeclare let and const variables](#can-I-redeclare-let-and-const-variables)                                                                           |
 | 307 | [Is const variable makes the value immutable](#is-const-variable-makes-the-value-immutable)                                                                   |
 | 308 | [What are default parameters](#what-are-default-parameters)                                                                                                   |
 | 309 | [What are template literals](#what-are-template-literals)                                                                                                     |
