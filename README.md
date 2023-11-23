@@ -249,7 +249,7 @@
 | 224 | [What are the different ways to access object properties](#what-are-the-different-ways-to-access-object-properties)                                           |
 | 225 | [What are the function parameter rules](#what-are-the-function-parameter-rules)                                                                               |
 | 226 | [What is an error object](#what-is-an-error-object)                                                                                                           |
-| 227 | [When you get a syntax error](#when-you-get-a-syntax-error)                                                                                                   |
+| 227 | ✅ [When you get a syntax error](#when-you-get-a-syntax-error)  extra {{ or }}, missing ' for a string, systax error is not reference error                   |
 | 228 | [What are the different error names from error object](#what-are-the-different-error-names-from-error-object)                                                 |
 | 229 | [What are the various statements in error handling](#what-are-the-various-statements-in-error-handling)                                                       |
 | 230 | [What are the two types of loops in javascript](#what-are-the-two-types-of-loops-in-javascript)                                                               |
