@@ -144,7 +144,7 @@
 | 119 | [How do you redirect new page in javascript](#how-do-you-redirect-new-page-in-javascript)                                                                     |
 | 120 | [How do you check whether a string contains a substring](#how-do-you-check-whether-a-string-contains-a-substring)                                             |
 | 121 | [How do you validate an email in javascript](#how-do-you-validate-an-email-in-javascript)                                                                     |
-| 122 | [How do you get the current url with javascript](#how-do-you-get-the-current-url-with-javascript)                                                             |
+| 122 | ✅ [How do you get the current url with javascript](#how-do-you-get-the-current-url-with-javascript)                                                             |
 | 123 | [What are the various url properties of location object](#what-are-the-various-url-properties-of-location-object)                                             |
 | 124 | [How do get query string values in javascript](#how-do-get-query-string-values-in-javascript)                                                                 |
 | 125 | [How do you check if a key exists in an object](#how-do-you-check-if-a-key-exists-in-an-object)                                                               |
