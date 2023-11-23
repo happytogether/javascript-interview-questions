@@ -90,7 +90,7 @@
 | 65  | [What is the purpose of the race method in promise](#what-is-the-purpose-of-the-race-method-in-promise)                                                       |
 | 66  | [What is a strict mode in javascript](#what-is-a-strict-mode-in-javascript)                                                                                   |
 | 67  | [Why do you need strict mode](#why-do-you-need-strict-mode)                                                                                                   |
-| 68  | [How do you declare strict mode](#how-do-you-declare-strict-mode)                                                                                             |
+| 68  | ✅ [How do you declare strict mode](#how-do-you-declare-strict-mode)                                                                                             |
 | 69  | [What is the purpose of double exclamation](#what-is-the-purpose-of-double-exclamation)                                                                       |
 | 70  | [What is the purpose of the delete operator](#what-is-the-purpose-of-the-delete-operator)                                                                     |
 | 71  | [What is typeof operator](#what-is-typeof-operator)                                                                                                           |
@@ -1686,7 +1686,7 @@
 69. ### How do you declare strict mode
 
     The strict mode is declared by adding "use strict"; to the beginning of a script or a function.
-    If declared at the beginning of a script, it has global scope.
+    If declared at the beginning of a script, it has global scope. Be carefult not to forget ";"
 
     ```javascript
     "use strict";
