@@ -32,7 +32,7 @@
 | 7   | ✅ [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                        |
 | 8   | [How do you compare an Object with a Map](#how-do-you-compare-object-and-map)                                                                                 |
 | 9   | ✅ [What is the difference between == and === operators](#what-is-the-difference-between--and--operators) (NaN is not equal to anything, including NaN.) |
-| 10  | [What are lambda or arrow functions](#what-are-lambda-or-arrow-functions)                                                                                     |
+| 10  | ✅ [What are lambda or arrow functions](#what-are-lambda-or-arrow-functions)                                                                                     |
 | 11  | [What is a first class function](#what-is-a-first-class-function)                                                                                             |
 | 12  | [What is a first order function](#what-is-a-first-order-function)                                                                                             |
 | 13  | [What is a higher order function](#what-is-a-higher-order-function)                                                                                           |
@@ -250,7 +250,7 @@
 | 225 | [What are the function parameter rules](#what-are-the-function-parameter-rules)                                                                               |
 | 226 | [What is an error object](#what-is-an-error-object)                                                                                                           |
 | 227 | ✅ [When you get a syntax error](#when-you-get-a-syntax-error)  extra {{ or }}, missing ' for a string, systax error is not reference error                   |
-| 228 | [What are the different error names from error object](#what-are-the-different-error-names-from-error-object)                                                 |
+| 228 | ❌ [What are the different error names from error object](#what-are-the-different-error-names-from-error-object)                                              | https://www.scaler.com/topics/types-of-errors-in-javascript/
 | 229 | [What are the various statements in error handling](#what-are-the-various-statements-in-error-handling)                                                       |
 | 230 | [What are the two types of loops in javascript](#what-are-the-two-types-of-loops-in-javascript)                                                               |
 | 231 | [What is nodejs](#what-is-nodejs)                                                                                                                             |
