@@ -121,7 +121,7 @@
 | 96  | [What is the purpose of void 0](#what-is-the-purpose-of-void-0)                                                                                               |
 | 97  | [Is JavaScript a compiled or interpreted language](#is-javascript-a-compiled-or-interpreted-language)                                                         |
 | 98  | [Is JavaScript a case-sensitive language](#is-javascript-a-case-sensitive-language)                                                                           |
-| 99  | [Is there any relation between Java and JavaScript](#is-there-any-relation-between-java-and-javascript)                                                       |
+| 99  | ✅ [Is there any relation between Java and JavaScript](#is-there-any-relation-between-java-and-javascript)                                                       |
 | 100 | [What are events](#what-are-events)                                                                                                                           |
 | 101 | ✅ [Who created javascript](#who-created-javascript)                                                                                                          |
 | 102 | ✅ [What is the use of preventDefault method](#what-is-the-use-of-preventdefault-method)                                                                      |
