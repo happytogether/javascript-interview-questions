@@ -52,7 +52,7 @@
 | 27  | [What are closures](#what-are-closures)                                                                                                                       |
 | 28  | [What are modules](#what-are-modules)   答案很簡單，但module的歷史在這裡 https://tinyurl.com/3apuz5rj                                                             |
 | 29  | [Why do you need modules](#why-do-you-need-modules)                                                                                                           |
-| 30  | ✅ [What is scope in javascript](#what-is-scope-in-javascript)                                                                                                |
+| 30  | ✅ [What is scope in javascript](#what-is-scope-in-javascript)  don't forget function scope, var only has function scope.                                     |
 | 31  | ❌ [What is a service worker](#what-is-a-service-worker)                                                                                                      |
 | 32  | ❌ [How do you manipulate DOM using a service worker](#how-do-you-manipulate-dom-using-a-service-worker)                                                      |
 | 33  | ❌ [How do you reuse information across service worker restarts](#how-do-you-reuse-information-across-service-worker-restarts)                                |
