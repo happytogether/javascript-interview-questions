@@ -127,7 +127,7 @@
 | 102 | [What is the use of preventDefault method](#what-is-the-use-of-preventdefault-method)                                                                         |
 | 103 | [What is the use of stopPropagation method](#what-is-the-use-of-stoppropagation-method)                                                                       |
 | 104 | [What are the steps involved in return false usage](#what-are-the-steps-involved-in-return-false-usage)                                                       |
-| 105 | [What is BOM](#what-is-bom)                                                                                                                                   |
+| 105 | ✅ [What is BOM](#what-is-bom)                                                                                                                                   |
 | 106 | [What is the use of setTimeout](#what-is-the-use-of-settimeout)                                                                                               |
 | 107 | [What is the use of setInterval](#what-is-the-use-of-setinterval)                                                                                             |
 | 108 | [Why is JavaScript treated as Single threaded](#why-is-javascript-treated-as-single-threaded)                                                                 |
