@@ -31,7 +31,7 @@
 | 6   | ✅ [What is the purpose of the array splice method](#what-is-the-purpose-of-the-array-splice-method) (modifies the original array and returns the deleted array) |
 | 7   | ✅ [What is the difference between slice and splice](#what-is-the-difference-between-slice-and-splice)                                                        |
 | 8   | [How do you compare an Object with a Map](#how-do-you-compare-object-and-map)                                                                                 |
-| 9   | [What is the difference between == and === operators](#what-is-the-difference-between--and--operators)                                                        |
+| 9   | ✅ [What is the difference between == and === operators](#what-is-the-difference-between--and--operators) (NaN is not equal to anything, including NaN.) |
 | 10  | [What are lambda or arrow functions](#what-are-lambda-or-arrow-functions)                                                                                     |
 | 11  | [What is a first class function](#what-is-a-first-class-function)                                                                                             |
 | 12  | [What is a first order function](#what-is-a-first-order-function)                                                                                             |
