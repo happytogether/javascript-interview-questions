@@ -103,7 +103,7 @@
 | 78  | [How do you detect caps lock key turned on or not](#how-do-you-detect-caps-lock-key-turned-on-or-not)                                                         |
 | 79  | [What is isNaN](#what-is-isnan)                                                                                                                               |
 | 80  | [What are the differences between undeclared and undefined variables](#what-are-the-differences-between-undeclared-and-undefined-variables)                   |
-| 81  | [What are global variables](#what-are-global-variables)                                                                                                       |
+| 81  | ✅ [What are global variables](#what-are-global-variables)                                                                                                       |
 | 82  | [What are the problems with global variables](#what-are-the-problems-with-global-variables)                                                                   |
 | 83  | [What is NaN property](#what-is-nan-property)                                                                                                                 |
 | 84  | [What is the purpose of isFinite function](#what-is-the-purpose-of-isfinite-function)                                                                         |
