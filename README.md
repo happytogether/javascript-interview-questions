@@ -197,7 +197,7 @@
 | 172 | [What are the properties used to get size of window](#what-are-the-properties-used-to-get-size-of-window)                                                     |
 | 173 | [What is a conditional operator in javascript](#what-is-a-conditional-operator-in-javascript)                                                                 |
 | 174 | [Can you apply chaining on conditional operator](#Can-you-apply-chaining-on-conditional-operator)                                                             |
-| 175 | [What are the ways to execute javascript after page load](#what-are-the-ways-to-execute-javascript-after-page-load)                                           |
+| 175 | ✅ [What are the ways to execute javascript after page load](#what-are-the-ways-to-execute-javascript-after-page-load) window.onload, document.onload, <body onload="" /> load event on element like iframe |
 | 176 | [What is the difference between proto and prototype](#what-is-the-difference-between-proto-and-prototype)                                                     |
 | 177 | [Give an example where do you really need semicolon](#give-an-example-where-do-you-really-need-semicolon)                                                     |
 | 178 | [What is a freeze method](#what-is-a-freeze-method)                                                                                                           |
