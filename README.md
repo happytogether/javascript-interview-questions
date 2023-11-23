@@ -150,7 +150,7 @@
 | 125 | [How do you check if a key exists in an object](#how-do-you-check-if-a-key-exists-in-an-object)                                                               |
 | 126 | [How do you loop through or enumerate javascript object](#how-do-you-loop-through-or-enumerate-javascript-object)                                             |
 | 127 | [How do you test for an empty object](#how-do-you-test-for-an-empty-object)                                                                                   |
-| 128 | [What is an arguments object](#what-is-an-arguments-object)                                                                                                   |
+| 128 | ✅ [What is an arguments object](#what-is-an-arguments-object)                                                                                                   |
 | 129 | [How do you convert the first letter of a string to uppercase](#how-do-you-make-first-letter-of-the-string-in-an-uppercase)                                   |
 | 130 | [What are the pros and cons of for loop](#what-are-the-pros-and-cons-of-for-loop)                                                                             |
 | 131 | [How do you display the current date in javascript](#how-do-you-display-the-current-date-in-javascript)                                                       |
@@ -2526,6 +2526,11 @@
 
      ```javascript
      var argsArray = Array.prototype.slice.call(arguments);
+     const args = Array.prototype.slice.call(arguments);
+    // or
+    const args = Array.from(arguments);
+    // or
+    const args = [...arguments];
      ```
 
      **[⬆ Back to Top](#table-of-contents)**
