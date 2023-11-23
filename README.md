@@ -36,9 +36,9 @@
 | 11  | [What is a first class function](#what-is-a-first-class-function)                                                                                             |
 | 12  | [What is a first order function](#what-is-a-first-order-function)                                                                                             |
 | 13  | [What is a higher order function](#what-is-a-higher-order-function)                                                                                           |
-| 14  | [What is a unary function](#what-is-a-unary-function)                                                                                                         |
+| 14  | ✅ [What is a unary function](#what-is-a-unary-function)                                                                                                         |
 | 15  | [What is the currying function](#what-is-the-currying-function)                                                                                               |
-| 16  | [What is a pure function](#what-is-a-pure-function)                                                                                                           |
+| 16  | ✅ [What is a pure function](#what-is-a-pure-function)                                                                                                           |
 | 17  | [What is the purpose of the let keyword](#what-is-the-purpose-of-the-let-keyword)                                                                             |
 | 18  | ✅ [What is the difference between let and var](#what-is-the-difference-between-let-and-var)                                                                     |
 | 19  | [What is the reason to choose the name let as a keyword](#what-is-the-reason-to-choose-the-name-let-as-a-keyword)                                             |
