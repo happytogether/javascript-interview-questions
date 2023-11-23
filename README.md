@@ -199,7 +199,7 @@
 | 174 | [Can you apply chaining on conditional operator](#Can-you-apply-chaining-on-conditional-operator)                                                             |
 | 175 | ✅ [What are the ways to execute javascript after page load](#what-are-the-ways-to-execute-javascript-after-page-load) window.onload, document.onload, <body onload="" /> load event on element like iframe |
 | 176 | [What is the difference between proto and prototype](#what-is-the-difference-between-proto-and-prototype)                                                     |
-| 177 | [Give an example where do you really need semicolon](#give-an-example-where-do-you-really-need-semicolon)                                                     |
+| 177 | ❌ [Give an example where do you really need semicolon](#give-an-example-where-do-you-really-need-semicolon)                                                     |
 | 178 | [What is a freeze method](#what-is-a-freeze-method)                                                                                                           |
 | 179 | [What is the purpose of freeze method](#what-is-the-purpose-of-freeze-method)                                                                                 |
 | 180 | [Why do I need to use freeze method](#why-do-i-need-to-use-freeze-method)                                                                                     |
