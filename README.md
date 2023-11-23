@@ -237,7 +237,7 @@
 | 212 | [How do you print the contents of web page](#how-do-you-print-the-contents-of-web-page)                                                                       |
 | 213 | [What is the difference between uneval and eval](#what-is-the-difference-between-uneval-and-eval)                                                             |
 | 214 | [What is an anonymous function](#what-is-an-anonymous-function)                                                                                               |
-| 215 | [What is the precedence order between local and global variables](#what-is-the-precedence-order-between-local-and-global-variables)                           |
+| 215 | ✅ [What is the precedence order between local and global variables](#what-is-the-precedence-order-between-local-and-global-variables) arrow function or function() {} | 
 | 216 | [What are javascript accessors](#what-are-javascript-accessors)                                                                                               |
 | 217 | [How do you define property on Object constructor](#how-do-you-define-property-on-object-constructor)                                                         |
 | 218 | [What is the difference between get and defineProperty](#what-is-the-difference-between-get-and-defineproperty)                                               |
