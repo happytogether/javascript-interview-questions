@@ -123,8 +123,8 @@
 | 98  | [Is JavaScript a case-sensitive language](#is-javascript-a-case-sensitive-language)                                                                           |
 | 99  | [Is there any relation between Java and JavaScript](#is-there-any-relation-between-java-and-javascript)                                                       |
 | 100 | [What are events](#what-are-events)                                                                                                                           |
-| 101 | [Who created javascript](#who-created-javascript)                                                                                                             |
-| 102 | [What is the use of preventDefault method](#what-is-the-use-of-preventdefault-method)                                                                         |
+| 101 | ✅ [Who created javascript](#who-created-javascript)                                                                                                             |
+| 102 | ✅ [What is the use of preventDefault method](#what-is-the-use-of-preventdefault-method)                                                                         |
 | 103 | [What is the use of stopPropagation method](#what-is-the-use-of-stoppropagation-method)                                                                       |
 | 104 | [What are the steps involved in return false usage](#what-are-the-steps-involved-in-return-false-usage)                                                       |
 | 105 | ✅ [What is BOM](#what-is-bom)                                                                                                                                   |
