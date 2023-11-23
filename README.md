@@ -53,26 +53,26 @@
 | 28  | [What are modules](#what-are-modules)   答案很簡單，但module的歷史在這裡 https://tinyurl.com/3apuz5rj                                                              |
 | 29  | [Why do you need modules](#why-do-you-need-modules)                                                                                                           |
 | 30  | [What is scope in javascript](#what-is-scope-in-javascript)                                                                                                   |
-| 31  | [What is a service worker](#what-is-a-service-worker)                                                                                                         |
-| 32  | [How do you manipulate DOM using a service worker](#how-do-you-manipulate-dom-using-a-service-worker)                                                         |
-| 33  | [How do you reuse information across service worker restarts](#how-do-you-reuse-information-across-service-worker-restarts)                                   |
-| 34  | [What is IndexedDB](#what-is-indexeddb)                                                                                                                       |
-| 35  | [What is web storage](#what-is-web-storage)                                                                                                                   |
-| 36  | [What is a post message](#what-is-a-post-message)                                                                                                             |
-| 37  | [What is a cookie](#what-is-a-cookie)                                                                                                                         |
-| 38  | [Why do you need a Cookie](#why-do-you-need-a-cookie)                                                                                                         |
-| 39  | [What are the options in a cookie](#what-are-the-options-in-a-cookie)                                                                                         |
-| 40  | [How do you delete a cookie](#how-do-you-delete-a-cookie)                                                                                                     |
-| 41  | [What are the differences between cookie, local storage and session storage](#What-are-the-differences-between-cookie-local-storage-and-session-storage)      |
-| 42  | [What is the main difference between localStorage and sessionStorage](#what-is-the-main-difference-between-localstorage-and-sessionstorage)                   |
-| 43  | [How do you access web storage](#how-do-you-access-web-storage)                                                                                               |
-| 44  | [What are the methods available on session storage](#what-are-the-methods-available-on-session-storage)                                                       |
-| 45  | [What is a storage event and its event handler](#what-is-a-storage-event-and-its-event-handler)                                                               |
-| 46  | [Why do you need web storage](#why-do-you-need-web-storage)                                                                                                   |
-| 47  | [How do you check web storage browser support](#how-do-you-check-web-storage-browser-support)                                                                 |
-| 48  | [How do you check web workers browser support](#how-do-you-check-web-workers-browser-support)                                                                 |
-| 49  | [Give an example of a web worker](#give-an-example-of-a-web-worker)                                                                                           |
-| 50  | [What are the restrictions of web workers on DOM](#what-are-the-restrictions-of-web-workers-on-dom)                                                           |
+| 31  | ❌ [What is a service worker](#what-is-a-service-worker)                                                                                                         |
+| 32  | ❌ [How do you manipulate DOM using a service worker](#how-do-you-manipulate-dom-using-a-service-worker)                                                         |
+| 33  | ❌ [How do you reuse information across service worker restarts](#how-do-you-reuse-information-across-service-worker-restarts)                                   |
+| 34  | ❌ [What is IndexedDB](#what-is-indexeddb)                                                                                                                       |
+| 35  | ❌ [What is web storage](#what-is-web-storage)                                                                                                                   |
+| 36  | ❌ [What is a post message](#what-is-a-post-message)                                                                                                             |
+| 37  | ❌ [What is a cookie](#what-is-a-cookie)                                                                                                                         |
+| 38  | ❌ [Why do you need a Cookie](#why-do-you-need-a-cookie)                                                                                                         |
+| 39  | ❌ [What are the options in a cookie](#what-are-the-options-in-a-cookie)                                                                                         |
+| 40  | ❌ [How do you delete a cookie](#how-do-you-delete-a-cookie)                                                                                                     |
+| 41  | ❌ [What are the differences between cookie, local storage and session storage](#What-are-the-differences-between-cookie-local-storage-and-session-storage)      |
+| 42  | ❌ [What is the main difference between localStorage and sessionStorage](#what-is-the-main-difference-between-localstorage-and-sessionstorage)                   |
+| 43  | ❌ [How do you access web storage](#how-do-you-access-web-storage)                                                                                               |
+| 44  | ❌ [What are the methods available on session storage](#what-are-the-methods-available-on-session-storage)                                                       |
+| 45  | ❌ [What is a storage event and its event handler](#what-is-a-storage-event-and-its-event-handler)                                                               |
+| 46  | ❌ [Why do you need web storage](#why-do-you-need-web-storage)                                                                                                   |
+| 47  | ❌ [How do you check web storage browser support](#how-do-you-check-web-storage-browser-support)                                                                 |
+| 48  | ❌ [How do you check web workers browser support](#how-do-you-check-web-workers-browser-support)                                                                 |
+| 49  | ❌ [Give an example of a web worker](#give-an-example-of-a-web-worker)                                                                                           |
+| 50  | ❌ [What are the restrictions of web workers on DOM](#what-are-the-restrictions-of-web-workers-on-dom)                                                           |
 | 51  | [What is a promise](#what-is-a-promise)                                                                                                                       |
 | 52  | [Why do you need a promise](#why-do-you-need-a-promise)                                                                                                       |
 | 53  | [What are the three states of promise](#what-are-the-three-states-of-promise)                                                                                 |
