@@ -98,8 +98,8 @@
 | 73  | [What is null value](#what-is-null-value)                                                                                                                     |
 | 74  | [What is the difference between null and undefined](#what-is-the-difference-between-null-and-undefined)                                                       |
 | 75  | [What is eval](#What-is-eval)                                                                                                                                 |
-| 76  | [What is the difference between window and document](#what-is-the-difference-between-window-and-document)                                                     |
-| 77  | [How do you access history in javascript](#how-do-you-access-history-in-javascript)                                                                           |
+| 76  | ✅ [What is the difference between window and document](#what-is-the-difference-between-window-and-document)                                                     |
+| 77  | ✅ [How do you access history in javascript](#how-do-you-access-history-in-javascript)                                                                           |
 | 78  | [How do you detect caps lock key turned on or not](#how-do-you-detect-caps-lock-key-turned-on-or-not)                                                         |
 | 79  | [What is isNaN](#what-is-isnan)                                                                                                                               |
 | 80  | [What are the differences between undeclared and undefined variables](#what-are-the-differences-between-undeclared-and-undefined-variables)                   |
