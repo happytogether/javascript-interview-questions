@@ -76,9 +76,9 @@
 | 51  | [What is a promise](#what-is-a-promise)                                                                                                                       |
 | 52  | [Why do you need a promise](#why-do-you-need-a-promise)                                                                                                       |
 | 53  | [What are the three states of promise](#what-are-the-three-states-of-promise)                                                                                 |
-| 54  | [What is a callback function](#what-is-a-callback-function)                                                                                                   |
-| 55  | [Why do we need callbacks](#why-do-we-need-callbacks)                                                                                                         |
-| 56  | [What is a callback hell](#what-is-a-callback-hell)                                                                                                           |
+| 54  | ✅ [What is a callback function](#what-is-a-callback-function)                                                                                                   |
+| 55  | ✅ [Why do we need callbacks](#why-do-we-need-callbacks)                                                                                                         |
+| 56  | ✅ [What is a callback hell](#what-is-a-callback-hell)                                                                                                           |
 | 57  | [What are server-sent events](#what-are-server-sent-events)                                                                                                   |
 | 58  | [How do you receive server-sent event notifications](#how-do-you-receive-server-sent-event-notifications)                                                     |
 | 59  | [How do you check browser support for server-sent events](#how-do-you-check-browser-support-for-server-sent-events)                                           |
