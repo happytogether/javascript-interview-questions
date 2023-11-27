@@ -47,7 +47,7 @@
 | 22  | ✅ [What is IIFE(Immediately Invoked Function Expression)](#what-is-iifeimmediately-invoked-function-expression)                                              |
 | 23  | ✅ [How do you decode or encode a URL in JavaScript?](#how-do-you-decode-or-encode-a-url-in-javascript)                                                          |
 | 24  | [What is memoization](#what-is-memoization)                                                                                                                   |
-| 25  | [What is Hoisting](#what-is-hoisting)                                                                                                                         |
+| 25  | ✅ [What is Hoisting](#what-is-hoisting)                                                                                                                         |
 | 26  | [What are classes in ES6](#what-are-classes-in-es6)                                                                                                           |
 | 27  | [What are closures](#what-are-closures)                                                                                                                       |
 | 28  | [What are modules](#what-are-modules)   答案很簡單，但module的歷史在這裡 https://tinyurl.com/3apuz5rj 可再參考other design patterns https://tinyurl.com/3cauhkdr |
