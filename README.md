@@ -84,12 +84,12 @@
 | 59  | [How do you check browser support for server-sent events](#how-do-you-check-browser-support-for-server-sent-events)                                           |
 | 60  | [What are the events available for server sent events](#what-are-the-events-available-for-server-sent-events)                                                 |
 | 61  | [What are the main rules of promise](#what-are-the-main-rules-of-promise)                                                                                     |
-| 62  | [What is callback in callback](#what-is-callback-in-callback)                                                                                                 |
+| 62  | ✅ [What is callback in callback](#what-is-callback-in-callback)                                                                                                 |
 | 63  | [What is promise chaining](#what-is-promise-chaining)                                                                                                         |
 | 64  | [What is promise.all](#what-is-promiseall)                                                                                                                    |
 | 65  | [What is the purpose of the race method in promise](#what-is-the-purpose-of-the-race-method-in-promise)                                                       |
-| 66  | [What is a strict mode in javascript](#what-is-a-strict-mode-in-javascript)                                                                                   |
-| 67  | [Why do you need strict mode](#why-do-you-need-strict-mode)                                                                                                   |
+| 66  | ✅ [What is a strict mode in javascript](#what-is-a-strict-mode-in-javascript)                                                                                   |
+| 67  | ✅ [Why do you need strict mode](#why-do-you-need-strict-mode)                                                                                                   |
 | 68  | ✅ [How do you declare strict mode](#how-do-you-declare-strict-mode)                                                                                             |
 | 69  | [What is the purpose of double exclamation](#what-is-the-purpose-of-double-exclamation)                                                                       |
 | 70  | [What is the purpose of the delete operator](#what-is-the-purpose-of-the-delete-operator)                                                                     |
