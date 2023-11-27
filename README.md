@@ -97,7 +97,7 @@
 | 72  | [What is undefined property](#what-is-undefined-property)                                                                                                     |
 | 73  | [What is null value](#what-is-null-value)                                                                                                                     |
 | 74  | [What is the difference between null and undefined](#what-is-the-difference-between-null-and-undefined)                                                       |
-| 75  | [What is eval](#What-is-eval)                                                                                                                                 |
+| 75  | ✅ [What is eval](#What-is-eval)                                                                                                                                 |
 | 76  | ✅ [What is the difference between window and document](#what-is-the-difference-between-window-and-document)                                                     |
 | 77  | ✅ [How do you access history in javascript](#how-do-you-access-history-in-javascript)                                                                           |
 | 78  | [How do you detect caps lock key turned on or not](#how-do-you-detect-caps-lock-key-turned-on-or-not)                                                         |
@@ -174,8 +174,8 @@
 | 149 | [How do you generate random integers](#how-do-you-generate-random-integers)                                                                                   |
 | 150 | [Can you write a random integers function to print integers with in a range](#can-you-write-a-random-integers-function-to-print-integers-with-in-a-range)     |
 | 151 | [What is tree shaking](#what-is-tree-shaking)                                                                                                                 |
-| 152 | [What is the need of tree shaking](#what-is-the-need-of-tree-shaking)                                                                                         |
-| 153 | [Is it recommended to use eval](#is-it-recommended-to-use-eval)                                                                                               |
+| 152 | ✅ [What is the need of tree shaking](#what-is-the-need-of-tree-shaking)                                                                                         |
+| 153 | ✅ [Is it recommended to use eval](#is-it-recommended-to-use-eval)                                                                                               |
 | 154 | [What is a Regular Expression](#what-is-a-regular-expression)                                                                                                 |
 | 155 | [What are the string methods available in Regular expression](#what-are-the-string-methods-available-in-regular-expression)                                   |
 | 156 | [What are modifiers in regular expression](#what-are-modifiers-in-regular-expression)                                                                         |
