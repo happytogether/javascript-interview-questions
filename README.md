@@ -244,9 +244,9 @@
 | 219 | [What are the advantages of Getters and Setters](#what-are-the-advantages-of-getters-and-setters)                                                             |
 | 220 | [Can I add getters and setters using defineProperty method](#can-i-add-getters-and-setters-using-defineproperty-method)                                       |
 | 221 | [What is the purpose of switch-case](#what-is-the-purpose-of-switch-case)                                                                                     |
-| 222 | [What are the conventions to be followed for the usage of switch case](#what-are-the-conventions-to-be-followed-for-the-usage-of-switch-case)                 |
-| 223 | [What are primitive data types](#what-are-primitive-data-types)                                                                                               |
-| 224 | [What are the different ways to access object properties](#what-are-the-different-ways-to-access-object-properties)                                           |
+| 222 | [What are the conventions to be followed for the usage of switch case](#what-are-the-conventions-to-be-followed-for-the-usage-of-switch-case)            |
+| 223 | ✅ [What are primitive data types](#what-are-primitive-data-types) (經常忘記symbol與其定義)                                                                      |
+| 224 | ✅ [What are the different ways to access object properties](#what-are-the-different-ways-to-access-object-properties)                                        |
 | 225 | [What are the function parameter rules](#what-are-the-function-parameter-rules)                                                                               |
 | 226 | [What is an error object](#what-is-an-error-object)                                                                                                           |
 | 227 | ✅ [When you get a syntax error](#when-you-get-a-syntax-error)  extra {{ or }}, missing ' for a string, systax error is not reference error                   |
