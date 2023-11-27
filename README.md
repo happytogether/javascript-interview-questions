@@ -231,11 +231,11 @@
 | 206 | [What is a WeakMap](#what-is-a-weakmap)                                                                                                                       |
 | 207 | [What are the differences between a WeakMap and a Map](#what-are-the-differences-between-weakmap-and-map)                                                     |
 | 208 | [List down the collection of methods available on WeakMap](#list-down-the-collection-of-methods-available-on-weakmap)                                         |
-| 209 | [What is the purpose of uneval](#what-is-the-purpose-of-uneval)                                                                                               |
+| 209 | ✅ [What is the purpose of uneval](#what-is-the-purpose-of-uneval)                                                                                               |
 | 210 | [How do you encode an URL](#how-do-you-encode-an-url)                                                                                                         |
 | 211 | [How do you decode an URL](#how-do-you-decode-an-url)                                                                                                         |
 | 212 | [How do you print the contents of web page](#how-do-you-print-the-contents-of-web-page)                                                                       |
-| 213 | [What is the difference between uneval and eval](#what-is-the-difference-between-uneval-and-eval)                                                             |
+| 213 | ✅ [What is the difference between uneval and eval](#what-is-the-difference-between-uneval-and-eval)                                                             |
 | 214 | [What is an anonymous function](#what-is-an-anonymous-function)                                                                                               |
 | 215 | ✅ [What is the precedence order between local and global variables](#what-is-the-precedence-order-between-local-and-global-variables) arrow function or function() {} | 
 | 216 | [What are javascript accessors](#what-are-javascript-accessors)                                                                                               |
@@ -1796,7 +1796,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-76. ### What is eval
+✅ 76. ### What is eval
 
     The eval() function evaluates JavaScript code represented as a string. The string can be a JavaScript expression, variable, statement, or sequence of statements.
 
