@@ -1,4 +1,4 @@
-# Day 3: JavaScript Interview Questions & Answers
+# Day 7 - Nov 27: JavaScript Interview Questions & Answers
 
 > Click :star:if you like the project and follow [@SudheerJonna](https://twitter.com/SudheerJonna) for more updates. Coding questions available [here](#coding-exercise). PDF and Epub versions available at [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
 
