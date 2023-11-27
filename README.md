@@ -85,8 +85,8 @@
 | 60  | [What are the events available for server sent events](#what-are-the-events-available-for-server-sent-events)                                                 |
 | 61  | [What are the main rules of promise](#what-are-the-main-rules-of-promise)                                                                                     |
 | 62  | ✅ [What is callback in callback](#what-is-callback-in-callback)                                                                                                 |
-| 63  | [What is promise chaining](#what-is-promise-chaining)                                                                                                         |
-| 64  | [What is promise.all](#what-is-promiseall)                                                                                                                    |
+| 63  | ✅ [What is promise chaining](#what-is-promise-chaining)                                                                                                         |
+| 64  | ✅ [What is promise.all](#what-is-promiseall)                                                                                                                    |
 | 65  | [What is the purpose of the race method in promise](#what-is-the-purpose-of-the-race-method-in-promise)                                                       |
 | 66  | ✅ [What is a strict mode in javascript](#what-is-a-strict-mode-in-javascript)                                                                                   |
 | 67  | ✅ [Why do you need strict mode](#why-do-you-need-strict-mode)                                                                                                   |
