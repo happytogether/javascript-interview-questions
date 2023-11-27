@@ -45,7 +45,7 @@
 | 20  | ✅ [How do you redeclare variables in switch block without an error](#how-do-you-redeclare-variables-in-switch-block-without-an-error)                  |
 | 21  | ✅ [What is the Temporal Dead Zone](#what-is-the-temporal-dead-zone)                                                                                          |
 | 22  | ✅ [What is IIFE(Immediately Invoked Function Expression)](#what-is-iifeimmediately-invoked-function-expression)                                              |
-| 23  | [How do you decode or encode a URL in JavaScript?](#how-do-you-decode-or-encode-a-url-in-javascript)                                                          |
+| 23  | ✅ [How do you decode or encode a URL in JavaScript?](#how-do-you-decode-or-encode-a-url-in-javascript)                                                          |
 | 24  | [What is memoization](#what-is-memoization)                                                                                                                   |
 | 25  | [What is Hoisting](#what-is-hoisting)                                                                                                                         |
 | 26  | [What are classes in ES6](#what-are-classes-in-es6)                                                                                                           |
